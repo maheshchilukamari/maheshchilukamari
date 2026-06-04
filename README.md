@@ -20,6 +20,18 @@
 [![Email](https://img.shields.io/badge/EMAIL-Let's_Talk-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheshchilukamari)
 
+<br>
+
+<a href="https://maheshchilukamari.github.io/Portfolio/"><img height="32" src="https://cdn.simpleicons.org/googlechrome/22D3EE" alt="Portfolio" title="Portfolio" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/maheshchilukamari/"><img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" title="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com"><img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Email" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/maheshchilukamari"><img height="32" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" /></a>
+
+<br><br>
+
 ![Open to Work](https://img.shields.io/badge/STATUS-OPEN_TO_ANALYTICS_ROLES-22C55E?style=flat-square)
 ![University](https://img.shields.io/badge/M.S._COMPUTER_SCIENCE-UNIVERSITY_OF_NORTH_TEXAS-0EA5E9?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=maheshchilukamari&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square)
@@ -231,12 +243,53 @@ QUERY  →  CLEAN  →  MODEL  →  VISUALIZE  →  RECOMMEND
 
 <div align="center">
 
-[![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
-[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Cybersecurity_Analyst_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+<table>
+<tr>
+<td align="center" width="20%">
+  <a href="https://www.coursera.org/professional-certificates/google-data-analytics">
+    <img height="46" src="https://cdn.simpleicons.org/google/4285F4" alt="Google" title="Google" />
+  </a>
+  <br><b>Google</b><br>
+  <sub>Data Analytics<br>Professional Certificate</sub>
+</td>
+<td align="center" width="20%">
+  <a href="https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst">
+    <img height="46" src="https://cdn.simpleicons.org/ibm/FFFFFF" alt="IBM" title="IBM" />
+  </a>
+  <br><b>IBM</b><br>
+  <sub>Cybersecurity Analyst<br>Professional Certificate</sub>
+</td>
+<td align="center" width="20%">
+  <a href="https://www.theforage.com/">
+    <img height="46" src="https://img.shields.io/badge/TATA-486AAE?style=for-the-badge&logo=tata&logoColor=white" alt="Tata" title="Tata" />
+  </a>
+  <br><b>Tata</b><br>
+  <sub>GenAI Powered<br>Data Analytics</sub>
+</td>
+<td align="center" width="20%">
+  <a href="https://www.theforage.com/">
+    <img height="46" src="https://cdn.simpleicons.org/deloitte/86BC25" alt="Deloitte" title="Deloitte" />
+  </a>
+  <br><b>Deloitte</b><br>
+  <sub>Data Analytics<br>Job Simulation</sub>
+</td>
+<td align="center" width="20%">
+  <a href="https://www.theforage.com/">
+    <img height="46" src="https://cdn.simpleicons.org/accenture/A100FF" alt="Accenture" title="Accenture" />
+  </a>
+  <br><b>Accenture</b><br>
+  <sub>Software Engineering<br>Job Simulation</sub>
+</td>
+</tr>
+</table>
 
-[![Tata GenAI Analytics](https://img.shields.io/badge/Tata-GenAI_Powered_Data_Analytics-486AAE?style=for-the-badge&logo=tata&logoColor=white)](https://www.theforage.com/)
-[![Deloitte Analytics](https://img.shields.io/badge/Deloitte-Data_Analytics_Job_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://www.theforage.com/)
-[![Accenture Engineering](https://img.shields.io/badge/Accenture-Software_Engineering_Job_Simulation-A100FF?style=for-the-badge&logo=accenture&logoColor=white)](https://www.theforage.com/)
+<br>
+
+[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-CERTIFIED-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
+[![IBM Cybersecurity](https://img.shields.io/badge/IBM_Cybersecurity-CERTIFIED-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+![Tata GenAI Analytics](https://img.shields.io/badge/Tata_GenAI_Analytics-COMPLETED-486AAE?style=flat-square)
+![Deloitte Analytics](https://img.shields.io/badge/Deloitte_Data_Analytics-COMPLETED-86BC25?style=flat-square&logo=deloitte&logoColor=white)
+![Accenture Engineering](https://img.shields.io/badge/Accenture_Engineering-COMPLETED-A100FF?style=flat-square&logo=accenture&logoColor=white)
 
 </div>
 
@@ -260,11 +313,11 @@ QUERY  →  CLEAN  →  MODEL  →  VISUALIZE  →  RECOMMEND
 
 ```mermaid
 flowchart LR
-    A["🎓 Google Data Analytics"] --> B["🗄️ SQL"]
-    B --> C["🐍 Python"]
-    C --> D["📊 Power BI"]
-    D --> E["⚙️ Data Engineering"]
-    E --> F["🚀 Analytics Engineer"]
+    A["Google Data Analytics"] --> B["SQL"]
+    B --> C["Python"]
+    C --> D["Power BI"]
+    D --> E["Data Engineering"]
+    E --> F["Analytics Engineer"]
 
     style A fill:#07111F,stroke:#22D3EE,color:#E2E8F0
     style B fill:#07111F,stroke:#38BDF8,color:#E2E8F0
