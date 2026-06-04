@@ -22,13 +22,13 @@
 
 <br>
 
-<a href="https://maheshchilukamari.github.io/Portfolio/"><img height="32" src="https://cdn.simpleicons.org/googlechrome/22D3EE" alt="Portfolio" title="Portfolio" /></a>
+<a href="https://maheshchilukamari.github.io/Portfolio/"><img height="32" src="https://img.shields.io/badge/-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=020617" alt="Portfolio" title="Portfolio" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/maheshchilukamari/"><img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/maheshchilukamari/"><img height="32" src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com"><img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Email" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img height="32" src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/maheshchilukamari"><img height="32" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" /></a>
+<a href="https://github.com/maheshchilukamari"><img height="32" src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" /></a>
 
 <br><br>
 
@@ -247,14 +247,14 @@ QUERY  →  CLEAN  →  MODEL  →  VISUALIZE  →  RECOMMEND
 <tr>
 <td align="center" width="20%">
   <a href="https://www.coursera.org/professional-certificates/google-data-analytics">
-    <img height="46" src="https://cdn.simpleicons.org/google/4285F4" alt="Google" title="Google" />
+    <img height="46" src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" title="Google" />
   </a>
   <br><b>Google</b><br>
   <sub>Data Analytics<br>Professional Certificate</sub>
 </td>
 <td align="center" width="20%">
   <a href="https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst">
-    <img height="46" src="https://cdn.simpleicons.org/ibm/FFFFFF" alt="IBM" title="IBM" />
+    <img height="46" src="https://img.shields.io/badge/-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" title="IBM" />
   </a>
   <br><b>IBM</b><br>
   <sub>Cybersecurity Analyst<br>Professional Certificate</sub>
@@ -268,14 +268,14 @@ QUERY  →  CLEAN  →  MODEL  →  VISUALIZE  →  RECOMMEND
 </td>
 <td align="center" width="20%">
   <a href="https://www.theforage.com/">
-    <img height="46" src="https://cdn.simpleicons.org/deloitte/86BC25" alt="Deloitte" title="Deloitte" />
+    <img height="46" src="https://img.shields.io/badge/-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" title="Deloitte" />
   </a>
   <br><b>Deloitte</b><br>
   <sub>Data Analytics<br>Job Simulation</sub>
 </td>
 <td align="center" width="20%">
   <a href="https://www.theforage.com/">
-    <img height="46" src="https://cdn.simpleicons.org/accenture/A100FF" alt="Accenture" title="Accenture" />
+    <img height="46" src="https://img.shields.io/badge/-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture" title="Accenture" />
   </a>
   <br><b>Accenture</b><br>
   <sub>Software Engineering<br>Job Simulation</sub>
