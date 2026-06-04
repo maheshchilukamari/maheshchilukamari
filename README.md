@@ -260,11 +260,11 @@ QUERY  →  CLEAN  →  MODEL  →  VISUALIZE  →  RECOMMEND
 
 ```mermaid
 flowchart LR
-    A["Google Data Analytics"] --> B["SQL"]
-    B --> C["Python"]
-    C --> D["Power BI"]
-    D --> E["Data Engineering"]
-    E --> F["Analytics Engineer"]
+    A["🎓 Google Data Analytics"] --> B["🗄️ SQL"]
+    B --> C["🐍 Python"]
+    C --> D["📊 Power BI"]
+    D --> E["⚙️ Data Engineering"]
+    E --> F["🚀 Analytics Engineer"]
 
     style A fill:#07111F,stroke:#22D3EE,color:#E2E8F0
     style B fill:#07111F,stroke:#38BDF8,color:#E2E8F0
