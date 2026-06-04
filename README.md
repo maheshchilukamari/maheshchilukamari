@@ -329,6 +329,8 @@ flowchart LR
 
 ---
 
+<!--
+
 ## 📈 GitHub Stats / Intelligence
 
 <div align="center">
@@ -359,7 +361,7 @@ flowchart LR
 </div>
 
 ---
-
+-->
 ## 🎯 The Next Query
 
 <div align="center">
