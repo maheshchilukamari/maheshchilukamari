@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi 👋, I'm Mahesh Chilukamari
 
-<!--
-**maheshchilukamari/maheshchilukamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Science in Computer Science @ University of North Texas
 
-Here are some ideas to get you started:
+📊 Data Analyst | Business Intelligence | SQL | Python | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a Data Analyst and Computer Science graduate student passionate about transforming data into actionable business insights.
+
+My expertise includes:
+
+- SQL
+- Python
+- Power BI
+- Tableau
+- Data Visualization
+- ETL Pipelines
+- Exploratory Data Analysis
+- Business Intelligence
+
+---
+
+## Certifications
+
+🏆 Google Data Analytics Professional Certificate
+
+🏆 IBM Cybersecurity Analyst Professional Certificate
+
+🏆 Tata GenAI Powered Data Analytics Simulation
+
+🏆 Deloitte Data Analytics Job Simulation
+
+🏆 Accenture Software Engineering Job Simulation
+
+---
+
+## Featured Projects
+
+### 📈 Sales Performance Analytics Dashboard
+
+- SQL
+- Python
+- Power BI
+- ETL
+- KPI Reporting
+
+### 🚴 Cyclistic Bike Share Analysis
+
+- Data Cleaning
+- SQL
+- Tableau
+- Business Insights
+
+### 💡 Bellabeat Case Study
+
+- Data Analysis
+- Visualization
+- Business Recommendations
+
+### ✈ Flight Fare Prediction
+
+- Python
+- Machine Learning
+- EDA
+
+---
+
+## Skills
+
+### Languages
+
+Python • SQL • R
+
+### Data Analytics
+
+Power BI • Tableau • Excel • Pandas • NumPy
+
+### Data Engineering
+
+ETL • Spark • Hadoop • Airflow
+
+### Databases
+
+MySQL • MongoDB
+
+---
+
+## Connect With Me
+
+💼 LinkedIn:
+YOUR LINKEDIN
+
+🌐 Portfolio:
+YOUR PORTFOLIO
+
+📧 Email:
+YOUR EMAIL
