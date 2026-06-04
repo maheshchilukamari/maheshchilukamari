@@ -1,182 +1,262 @@
 <!--
   GitHub Profile README for Mahesh Chilukamari
-  Before publishing: replace YOUR_EMAIL@example.com with your preferred public email.
-  For the contribution snake, also add the companion snake.yml file to:
-  .github/workflows/snake.yml in your maheshchilukamari/maheshchilukamari profile repository.
+  Replace YOUR_EMAIL@example.com before publishing.
+  Add outputs/snake.yml to .github/workflows/snake.yml in your profile repository.
+  Replace the four placehold.co URLs with direct links to your real dashboard screenshots.
 -->
 
 <div align="center">
 
-![Mahesh Chilukamari - Data Analyst and Business Intelligence Professional](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:06B6D4&height=220&section=header&text=Mahesh%20Chilukamari&fontSize=46&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Analytics%20Engineer&descAlignY=55&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,40:0F172A,75:0E7490,100:22D3EE&text=MAHESH%20CHILUKAMARI&fontColor=F8FAFC&fontSize=42&fontAlignY=42&desc=DATA%20%E2%86%92%20INSIGHT%20%E2%86%92%20DECISION&descAlignY=61&descSize=16&animation=fadeIn)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+%26+Python+Developer;Power+BI+Dashboard+Builder" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+%26+Python+Developer;Power+BI+Dashboard+Builder" alt="Animated role titles" />
 </a>
 
-<p>
-  <strong>Turning complex data into clear decisions, compelling stories, and measurable business impact.</strong>
-</p>
+### I translate business questions into analytics people can act on.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maheshchilukamari.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshchilukamari/)
-[![Email](https://img.shields.io/badge/Email-Start_a_Conversation-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheshchilukamari)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View_Case_Studies-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=020617)](https://maheshchilukamari.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshchilukamari/)
+[![Email](https://img.shields.io/badge/EMAIL-Let's_Talk-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheshchilukamari)
 
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Data_Analyst_%7C_BI_Analyst_%7C_Analytics_Engineer-22C55E?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=maheshchilukamari&label=PROFILE+VIEWS&color=06B6D4&style=flat-square)
+![Open to Work](https://img.shields.io/badge/STATUS-OPEN_TO_ANALYTICS_ROLES-22C55E?style=flat-square)
+![University](https://img.shields.io/badge/M.S._COMPUTER_SCIENCE-UNIVERSITY_OF_NORTH_TEXAS-0EA5E9?style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=maheshchilukamari&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square)
 
 </div>
 
 ---
 
-## About Me
+## 🎛️ About Me / Analytics Control Room
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### From raw data to decisions
+### The short version
 
-I am a **Data Analyst and Business Intelligence professional** pursuing a **Master of Science in Computer Science at the University of North Texas**. I combine analytical thinking, business context, and strong visual storytelling to transform data into insights people can act on.
+I am a **Data Analyst and Business Intelligence professional** pursuing an **M.S. in Computer Science at the University of North Texas**.
 
-- Build decision-ready dashboards in **Power BI** and **Tableau**
-- Query, clean, and model data using **SQL** and **Python**
-- Design repeatable **ETL pipelines** and analytics workflows
-- Translate stakeholder questions into measurable KPIs
-- Communicate findings through clear, outcome-focused data stories
+My work sits at the intersection of **data, business, and storytelling**. I use SQL and Python to find the signal, Power BI to make it visible, and business context to make it useful.
 
-> I care about the question behind the query: what decision will this insight improve?
+```text
+BUSINESS QUESTION
+       ↓
+QUERY  →  CLEAN  →  MODEL  →  VISUALIZE  →  RECOMMEND
+       ↑                                      ↓
+       └──────────── MEASURE IMPACT ──────────┘
+```
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-### Professional Snapshot
+### Signal Board
 
-| | |
+| SIGNAL | STATUS |
 |---|---|
+| **Primary lane** | Analytics + BI |
+| **Core tools** | SQL · Python · Power BI |
+| **Data work** | ETL · Modeling · Visualization |
 | **Education** | M.S. Computer Science |
-| **University** | University of North Texas |
-| **Core Domain** | Analytics & Business Intelligence |
-| **Strengths** | SQL, Python, Power BI, ETL |
-| **Location** | Denton, Texas |
-| **Status** | Open to analytics opportunities |
+| **Target roles** | Analyst · BI · Data Engineering |
+| **Availability** | Open to opportunities |
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>What I bring to an analytics team</b></summary>
-<br>
-
-- A business-first approach to defining metrics and answering stakeholder questions
-- Hands-on experience across data cleaning, exploration, modeling, visualization, and reporting
-- A computer science foundation that supports scalable, reliable analytics solutions
-- Curiosity, structured problem-solving, and clear communication
-
-</details>
+> **My operating principle:** the best dashboard is not the one with the most charts. It is the one that makes the next decision obvious.
 
 ---
 
-## Current Focus
+## 🔭 Current Focus / Now · Next · Target
+
+| NOW: BUILDING | NEXT: DEEPENING | TARGET: DELIVERING |
+|---|---|---|
+| Executive-ready Power BI dashboards | Advanced SQL and dimensional modeling | Trusted decision-support systems |
+| End-to-end analytics case studies | Python automation and ETL design | Scalable analytics workflows |
+| Clear KPI and business narratives | Modern analytics engineering | Measurable business outcomes |
+
+---
+
+## 📊 Analytics Impact
 
 <div align="center">
 
-| BUILDING | DEEPENING | EXPLORING |
-|:---:|:---:|:---:|
-| Executive-ready Power BI dashboards | Advanced SQL & dimensional modeling | Modern analytics engineering |
-| Automated ETL workflows | Python for analysis & automation | Cloud data platforms |
-| Portfolio case studies | Business storytelling with data | Reliable, scalable data pipelines |
+![Dashboards Built](https://img.shields.io/badge/DASHBOARDS_BUILT-04%2B-22D3EE?style=for-the-badge)
+![Projects Completed](https://img.shields.io/badge/PROJECTS_COMPLETED-04%2B-38BDF8?style=for-the-badge)
+![Certifications Earned](https://img.shields.io/badge/CERTIFICATIONS_EARNED-05-A78BFA?style=for-the-badge)
+![Datasets Analyzed](https://img.shields.io/badge/DATASETS_ANALYZED-10%2B-34D399?style=for-the-badge)
+
+| ASK BETTER QUESTIONS | BUILD TRUSTED DATA | MAKE INSIGHTS VISIBLE | DRIVE THE NEXT ACTION |
+|:---:|:---:|:---:|:---:|
+| Define the decision | Clean, validate, model | Design focused dashboards | Communicate recommendations |
 
 </div>
 
 ---
 
-## Featured Projects
+## 🧪 Featured Projects / Analytics Lab
 
-<!-- Replace each placeholder image with a direct URL to your dashboard screenshot. -->
+<!-- Replace placeholder images below with direct URLs to real project screenshots. -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
   <a href="https://maheshchilukamari.github.io/Portfolio/">
-    <img src="https://placehold.co/1200x675/0F172A/22D3EE?text=Sales+Performance%0AAnalytics+Dashboard" alt="Sales Performance Analytics Dashboard screenshot placeholder" width="100%" />
+    <img src="https://placehold.co/1200x630/07111F/22D3EE?text=SALES+PERFORMANCE%0AANALYTICS+DASHBOARD" width="100%" alt="Sales Performance Analytics Dashboard placeholder" />
   </a>
-  <h3>Sales Performance Analytics</h3>
-  <p>Executive dashboard for tracking revenue, growth, product performance, and regional sales trends.</p>
+  <h3>01 / Sales Performance Analytics</h3>
+  <p><b>Decision:</b> Where is growth coming from, and what needs attention?</p>
+  <p><b>Build:</b> Executive KPI dashboard exploring revenue, products, regions, and trends.</p>
   <p>
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
     <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/DAX-7C3AED?style=flat-square" alt="DAX" />
   </p>
-  <a href="https://maheshchilukamari.github.io/Portfolio/"><b>View case study →</b></a>
+  <a href="https://maheshchilukamari.github.io/Portfolio/"><b>Open case study &gt;</b></a>
 </td>
 <td width="50%" valign="top">
   <a href="https://maheshchilukamari.github.io/Portfolio/">
-    <img src="https://placehold.co/1200x675/0F172A/A78BFA?text=Bellabeat%0ACase+Study" alt="Bellabeat Case Study screenshot placeholder" width="100%" />
+    <img src="https://placehold.co/1200x630/07111F/A78BFA?text=BELLABEAT%0ACASE+STUDY" width="100%" alt="Bellabeat Case Study placeholder" />
   </a>
-  <h3>Bellabeat Case Study</h3>
-  <p>Consumer wellness analysis revealing behavioral patterns and data-backed marketing opportunities.</p>
+  <h3>02 / Bellabeat Case Study</h3>
+  <p><b>Decision:</b> How can wellness behavior inform a smarter marketing strategy?</p>
+  <p><b>Build:</b> Consumer behavior analysis that turns activity patterns into recommendations.</p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
   </p>
-  <a href="https://maheshchilukamari.github.io/Portfolio/"><b>View case study →</b></a>
+  <a href="https://maheshchilukamari.github.io/Portfolio/"><b>Open case study &gt;</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://maheshchilukamari.github.io/Portfolio/">
-    <img src="https://placehold.co/1200x675/0F172A/38BDF8?text=Cyclistic%0AAnalysis" alt="Cyclistic Analysis screenshot placeholder" width="100%" />
+    <img src="https://placehold.co/1200x630/07111F/38BDF8?text=CYCLISTIC%0ARIDER+ANALYSIS" width="100%" alt="Cyclistic Analysis placeholder" />
   </a>
-  <h3>Cyclistic Analysis</h3>
-  <p>Mobility usage analysis comparing rider segments to identify conversion and retention opportunities.</p>
+  <h3>03 / Cyclistic Analysis</h3>
+  <p><b>Decision:</b> What separates casual riders from members?</p>
+  <p><b>Build:</b> Segmentation analysis identifying usage patterns and conversion opportunities.</p>
   <p>
     <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-    <img src="https://img.shields.io/badge/Data_Storytelling-06B6D4?style=flat-square" alt="Data Storytelling" />
+    <img src="https://img.shields.io/badge/Storytelling-06B6D4?style=flat-square" alt="Data Storytelling" />
   </p>
-  <a href="https://maheshchilukamari.github.io/Portfolio/"><b>View case study →</b></a>
+  <a href="https://maheshchilukamari.github.io/Portfolio/"><b>Open case study &gt;</b></a>
 </td>
 <td width="50%" valign="top">
   <a href="https://maheshchilukamari.github.io/Portfolio/">
-    <img src="https://placehold.co/1200x675/0F172A/34D399?text=Flight+Fare%0APrediction" alt="Flight Fare Prediction screenshot placeholder" width="100%" />
+    <img src="https://placehold.co/1200x630/07111F/34D399?text=FLIGHT+FARE%0APREDICTION" width="100%" alt="Flight Fare Prediction placeholder" />
   </a>
-  <h3>Flight Fare Prediction</h3>
-  <p>Predictive analytics project that models airfare drivers and estimates flight prices from travel features.</p>
+  <h3>04 / Flight Fare Prediction</h3>
+  <p><b>Decision:</b> Which travel factors influence airfare most?</p>
+  <p><b>Build:</b> Predictive model estimating fares from route, schedule, and travel features.</p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
     <img src="https://img.shields.io/badge/Machine_Learning-10B981?style=flat-square" alt="Machine Learning" />
   </p>
-  <a href="https://maheshchilukamari.github.io/Portfolio/"><b>View case study →</b></a>
+  <a href="https://maheshchilukamari.github.io/Portfolio/"><b>Open case study &gt;</b></a>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-[![Explore All Projects](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-Visit_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maheshchilukamari.github.io/Portfolio/)
+[![Explore Full Portfolio](https://img.shields.io/badge/EXPLORE_THE_FULL_PORTFOLIO-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=020617)](https://maheshchilukamari.github.io/Portfolio/)
 
 </div>
 
 ---
 
-## Analytics Impact
+## 🧰 Tech Stack / Toolbox
+
+| LAYER | TOOLS & PRACTICES |
+|---|---|
+| **Query & Programming** | SQL · Python |
+| **Business Intelligence** | Power BI · Tableau · Microsoft Excel · DAX |
+| **Analysis** | Pandas · NumPy · Jupyter · scikit-learn |
+| **Data Engineering** | ETL Pipelines · Data Cleaning · Data Modeling · Data Validation |
+| **Databases** | MySQL · PostgreSQL |
+| **Workflow** | Git · GitHub · VS Code · Azure |
+| **Business Practice** | KPI Design · Requirements Analysis · Data Storytelling · Recommendations |
 
 <div align="center">
 
-| **04+** | **04+** | **05** | **10+** |
-|:---:|:---:|:---:|:---:|
-| **Dashboards Built** | **Projects Completed** | **Certifications Earned** | **Datasets Analyzed** |
-| Insightful KPI reporting | End-to-end case studies | Industry-recognized learning | Cleaned, queried & modeled |
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,git,github,vscode&theme=dark" alt="Core technology icons" />
+
+<br><br>
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## Data Analytics Journey
+## 🧠 How I Practice Analytics
+
+- **Frame the decision** before selecting the metric.
+- **Validate the data** before trusting the visualization.
+- **Model for clarity** so business logic remains understandable.
+- **Design for scanning** so stakeholders find the signal quickly.
+- **Explain the implication** because an insight without action is unfinished.
+- **Automate repeatable work** through reliable ETL and reporting workflows.
+
+<details>
+<summary><b>Open my analytics playbook</b></summary>
+<br>
+
+| PHASE | THE QUESTION I ASK |
+|---|---|
+| Discover | What business decision are we trying to improve? |
+| Define | Which KPIs genuinely represent success? |
+| Prepare | Is the data complete, consistent, and trustworthy? |
+| Analyze | What patterns, drivers, and exceptions matter? |
+| Visualize | What is the clearest way to communicate the signal? |
+| Recommend | What action should follow, and how will we measure it? |
+
+</details>
+
+---
+
+## 🏅 Certifications Wall
+
+<div align="center">
+
+[![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
+[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Cybersecurity_Analyst_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+
+[![Tata GenAI Analytics](https://img.shields.io/badge/Tata-GenAI_Powered_Data_Analytics-486AAE?style=for-the-badge&logo=tata&logoColor=white)](https://www.theforage.com/)
+[![Deloitte Analytics](https://img.shields.io/badge/Deloitte-Data_Analytics_Job_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://www.theforage.com/)
+[![Accenture Engineering](https://img.shields.io/badge/Accenture-Software_Engineering_Job_Simulation-A100FF?style=for-the-badge&logo=accenture&logoColor=white)](https://www.theforage.com/)
+
+</div>
+
+<details>
+<summary><b>What these credentials add to my toolkit</b></summary>
+<br>
+
+| CREDENTIAL | FOCUS |
+|---|---|
+| Google Data Analytics | End-to-end analysis, SQL, visualization, and case studies |
+| IBM Cybersecurity Analyst | Security analytics, databases, incident response, and risk |
+| Tata GenAI Powered Data Analytics | AI-assisted analysis and business recommendations |
+| Deloitte Data Analytics | Dashboarding, analysis, and forensic technology |
+| Accenture Software Engineering | Software delivery, architecture, and development practices |
+
+</details>
+
+---
+
+## 🚀 Data Analytics Journey
 
 ```mermaid
 flowchart LR
@@ -186,98 +266,38 @@ flowchart LR
     D --> E["Data Engineering"]
     E --> F["Analytics Engineer"]
 
-    style A fill:#0F172A,stroke:#22D3EE,color:#E2E8F0
-    style B fill:#0F172A,stroke:#38BDF8,color:#E2E8F0
-    style C fill:#0F172A,stroke:#60A5FA,color:#E2E8F0
-    style D fill:#0F172A,stroke:#A78BFA,color:#E2E8F0
-    style E fill:#0F172A,stroke:#C084FC,color:#E2E8F0
-    style F fill:#0F172A,stroke:#34D399,color:#E2E8F0
+    style A fill:#07111F,stroke:#22D3EE,color:#E2E8F0
+    style B fill:#07111F,stroke:#38BDF8,color:#E2E8F0
+    style C fill:#07111F,stroke:#60A5FA,color:#E2E8F0
+    style D fill:#07111F,stroke:#A78BFA,color:#E2E8F0
+    style E fill:#07111F,stroke:#C084FC,color:#E2E8F0
+    style F fill:#07111F,stroke:#34D399,color:#E2E8F0
 ```
 
 ---
 
-## Tech Stack
+## 📈 GitHub Stats / Intelligence
 
 <div align="center">
 
-### Analytics, BI & Data Storytelling
+### GitHub Stats + Top Languages
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
-
-### Languages, Data & Engineering
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,git,github,vscode&theme=dark" alt="Python, MySQL, PostgreSQL, Azure, Git, GitHub, and VS Code icons" />
-
-<br><br>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-0EA5E9?style=flat-square&logo=apacheairflow&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-8B5CF6?style=flat-square&logo=databricks&logoColor=white)
-
-</div>
-
----
-
-## Certifications Wall
-
-<div align="center">
-
-[![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
-[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Cybersecurity_Analyst_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
-
-[![Tata GenAI Powered Data Analytics](https://img.shields.io/badge/Tata-GenAI_Powered_Data_Analytics-486AAE?style=for-the-badge&logo=tata&logoColor=white)](https://www.theforage.com/)
-[![Deloitte Data Analytics](https://img.shields.io/badge/Deloitte-Data_Analytics_Job_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://www.theforage.com/)
-[![Accenture Software Engineering](https://img.shields.io/badge/Accenture-Software_Engineering_Job_Simulation-A100FF?style=for-the-badge&logo=accenture&logoColor=white)](https://www.theforage.com/)
-
-</div>
-
-<details>
-<summary><b>Certification focus areas</b></summary>
-<br>
-
-| Credential | Focus |
-|---|---|
-| Google Data Analytics Professional Certificate | End-to-end analytics workflow, SQL, visualization, and case studies |
-| IBM Cybersecurity Analyst Professional Certificate | Security analytics, incident response, databases, and risk |
-| Tata GenAI Powered Data Analytics Job Simulation | AI-assisted analytics and business recommendations |
-| Deloitte Data Analytics Job Simulation | Data analysis, dashboards, and forensic technology |
-| Accenture Software Engineering Job Simulation | Software delivery, architecture, and development practices |
-
-</details>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-### GitHub Stats
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=maheshchilukamari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&bg_color=0D1117" alt="Mahesh's GitHub statistics" />
-
-### Top Languages
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshchilukamari&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" alt="Mahesh's top programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheshchilukamari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&bg_color=0D1117" alt="Mahesh's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshchilukamari&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" alt="Mahesh's top languages" />
 
 ### GitHub Streak Stats
 
-<img width="70%" src="https://streak-stats.demolab.com?user=maheshchilukamari&hide_border=true&background=0D1117&stroke=1E293B&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="Mahesh's GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=maheshchilukamari&hide_border=true&background=0D1117&stroke=1E293B&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="Mahesh's GitHub streak" />
 
 ### Contribution Activity
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maheshchilukamari&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="Mahesh's GitHub contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=maheshchilukamari&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="Mahesh's contribution activity graph" />
 
 </div>
 
 ---
 
-## Contribution Journey
+## 🐍 Contribution Snake / Pipeline
 
 <div align="center">
 
@@ -287,25 +307,22 @@ flowchart LR
 
 ---
 
-## Let's Build Decisions From Data
+## 🎯 The Next Query
 
 <div align="center">
 
-I am actively seeking opportunities as a **Data Analyst**, **Business Analyst**, **BI Analyst**,  
-**Analytics Engineer**, or **Data Engineer**.
+### Seeking Data Analyst · Business Analyst · BI Analyst · Analytics Engineer · Data Engineer roles
 
-I am especially interested in teams where analytics directly shapes product, operations, or strategy.
+I am looking for a team where curiosity is useful, data is trusted, and insights lead to action.
 
-<br>
-
-[![View Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maheshchilukamari.github.io/Portfolio/)
-[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshchilukamari/)
-[![Send Email](https://img.shields.io/badge/SEND_EMAIL-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![See My Work](https://img.shields.io/badge/SEE_MY_WORK-PORTFOLIO-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=020617)](https://maheshchilukamari.github.io/Portfolio/)
+[![Start a Conversation](https://img.shields.io/badge/START_A_CONVERSATION-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshchilukamari/)
+[![Email Me](https://img.shields.io/badge/EMAIL_ME-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 <br><br>
 
-<sub>Designed around curiosity, clarity, and measurable impact.</sub>
+<sub><b>SELECT</b> curiosity, clarity, impact <b>FROM</b> every_project;</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:0F172A,100:020617&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,45:0E7490,100:020617)
 
 </div>
