@@ -109,10 +109,12 @@ QUERY  →  CLEAN  →  MODEL  →  VISUALIZE  →  RECOMMEND
 
 ---
 
+<!--
+
 ## 🧪 Featured Projects / Analytics Lab
 
 <!-- Replace placeholder images below with direct URLs to real project screenshots. -->
-
+<!--
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -183,6 +185,7 @@ QUERY  →  CLEAN  →  MODEL  →  VISUALIZE  →  RECOMMEND
 </div>
 
 ---
+-->
 
 ## 🧰 Tech Stack / Toolbox
 
